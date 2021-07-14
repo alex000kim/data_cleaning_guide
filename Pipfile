@@ -11,6 +11,8 @@ catboost = "*"
 pyarrow = "*"
 seaborn = "*"
 pandas-profiling = {extras = ["notebook"], version = "*"}
+sweetviz = "*"
+plotly-express = "*"
 
 [dev-packages]
 ipykernel = "*"
